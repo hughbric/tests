@@ -1,1 +1,1 @@
-A repository for experiment.
+A repository to experiment with things.
